@@ -1,4 +1,4 @@
-package com.rjdeleon.kotlinrestaurants
+package com.rjdeleon.mvvmposts
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("com.rjdeleon.kotlinrestaurants", appContext.packageName)
+        assertEquals("com.rjdeleon.mvvmposts", appContext.packageName)
     }
 }

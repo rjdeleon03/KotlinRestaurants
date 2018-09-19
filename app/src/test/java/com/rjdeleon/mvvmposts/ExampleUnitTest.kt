@@ -1,4 +1,4 @@
-package com.rjdeleon.kotlinrestaurants
+package com.rjdeleon.mvvmposts
 
 import org.junit.Test
 
